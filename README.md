@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there, I'm Deepak 👋🏻
 
-<!--
-**Deepak14291/Deepak14291** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full stack web developer and also a AWS certified cloud practioner. 
 
-Here are some ideas to get you started:
+## Tech Stack: HTML5, CSS3, JavaScript, PHP. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frameworks that I have worked with: Laravel, Symfony, Vue JS, Bootstrap.
+
+## Current Projects
+
+> Working on my personal developer portfolio. 
+
+> I am currently preparing for AWS Developer Associate certification. 
+
+## Connect with Me
+
+[LinkedIn](https://www.linkedin.com/in/deepak-kodi-uk/)
+
