@@ -1,4 +1,4 @@
-## Hi there, I'm Deepak 👋🏻
+## Hi there, I'm Deepak.
 
 I'm a full stack web developer and also a AWS certified cloud practioner. 
 
@@ -12,7 +12,7 @@ Frameworks that I have worked with: Laravel, Symfony, Vue JS, Bootstrap.
 
 > I am currently preparing for AWS Developer Associate certification. 
 
-## Connect with Me
+## Linkedin
 
 [LinkedIn](https://www.linkedin.com/in/deepak-kodi-uk/)
 
