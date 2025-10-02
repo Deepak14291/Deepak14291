@@ -4,7 +4,7 @@ I'm a full stack web developer and also a AWS certified cloud practioner.
 
 ## Tech Stack: HTML5, CSS3, JavaScript, PHP. 
 
-Frameworks that I have worked with: Laravel, Symfony, Vue JS, Bootstrap.
+Frameworks that I have worked with: Laravel, Symfony, Vue JS, Bootstrap and React JS.
 
 ## Current Projects
 
